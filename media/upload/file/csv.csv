@@ -1,0 +1,12 @@
+TimeSeries ID,log_entry_count.mean metric.log=ops-agent-fluent-bit metric.severity=DEFAULT,log_entry_count.mean metric.log=syslog metric.severity=DEFAULT
+metric.log,ops-agent-fluent-bit,syslog
+metric.severity,DEFAULT,DEFAULT
+Mon Apr 03 2023 00:00:00 GMT+0800 (台北標準時間),1.25,2.4364406779661016
+Tue Apr 04 2023 00:00:00 GMT+0800 (台北標準時間),undefined,2.5669642857142856
+Wed Apr 05 2023 00:00:00 GMT+0800 (台北標準時間),undefined,2.579185520361991
+Thu Apr 06 2023 00:00:00 GMT+0800 (台北標準時間),undefined,2.8055555555555554
+Fri Apr 07 2023 00:00:00 GMT+0800 (台北標準時間),undefined,2.4976958525345623
+Sat Apr 08 2023 00:00:00 GMT+0800 (台北標準時間),undefined,2.533333333333333
+Sun Apr 09 2023 00:00:00 GMT+0800 (台北標準時間),undefined,2.8199052132701423
+Mon Apr 10 2023 00:00:00 GMT+0800 (台北標準時間),1.6666666666666667,2.8174273858921164
+Tue Apr 11 2023 00:00:00 GMT+0800 (台北標準時間),undefined,2.7873563218390807
